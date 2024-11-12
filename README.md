@@ -6,6 +6,9 @@
 # Pull the image 
 docker pull ak256/homework8:latest
 
+![DockerHub Image](Homework8sc.png)
+
+
 # Run the Docker container
 docker run ak256/homework8:latest
 

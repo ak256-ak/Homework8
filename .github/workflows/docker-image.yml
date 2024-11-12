@@ -41,7 +41,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: yourdockerhubusername/yourimage:latest
+          tags: ak256/homework8:latest
 
       - name: Log out from DockerHub
         run: docker logout

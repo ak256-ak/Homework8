@@ -1,6 +1,6 @@
 
 
-# Homework 8: Devops and Automation - Docker Part 2
+# Homework 8:
 
 
 # Pull the image 

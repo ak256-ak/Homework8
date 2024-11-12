@@ -1,7 +1,7 @@
 
 
 # Homework 8 - Dockerized Application
-#myreadme.md
+
 
 # Pull the image 
 docker pull ak256/homework8:latest

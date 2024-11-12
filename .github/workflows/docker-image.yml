@@ -41,6 +41,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
+          platforms: linux/amd64,linux/arm64   # Specify both amd64 and arm64 platforms
           tags: ak256/homework8:latest
 
       - name: Log out from DockerHub

@@ -1,6 +1,6 @@
 
 
-# Homework 8 - Dockerized Application
+# Homework 8: Devops and Automation - Docker Part 2
 
 
 # Pull the image 
